@@ -1,3 +1,6 @@
+# Note
+- please add validation in username register (null)
+
 # Astro Landing Page
 
 An Astro + Tailwind CSS starter kit for landing pages.
